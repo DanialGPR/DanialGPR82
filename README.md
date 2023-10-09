@@ -1,3 +1,7 @@
+<div>
+    <img src="/githubbanner1.png" title="banner" alt="banner" height = "200" width = "100%"/>
+</div>
+
 - 👋 Hi, I’m @DanialGPR82
 - 👀 I’m interested in Computers, MTB cycling, gaming, coding, reading, drinking tea and coffee, and so on.
 - 🌱 I’m learning Data Science and Analysis, Python, and Power BI. After that, I'll learn R, SQL, and other needed skills in the learning path.
