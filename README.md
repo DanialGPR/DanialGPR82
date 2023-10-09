@@ -26,8 +26,7 @@
 <br />
 <br />
 <img src="vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737_765.png" width="150" height="150" style="display: block;
-     margin-left: auto;">
-<br />
+     float: right;">
 <br />
 
 ### :hammer_and_wrench: Languages and Tools :
