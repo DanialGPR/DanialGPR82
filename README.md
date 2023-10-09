@@ -2,6 +2,9 @@
     <img src="/githubbanner1.png" title="banner" alt="banner" height = "200" width = "100%"/>
 </div>
 
+<br />
+<br />
+
 - 👋 Hi, I’m @DanialGPR82
 - 👀 I’m interested in Computers, MTB cycling, gaming, coding, reading, drinking tea and coffee, and so on.
 - 🌱 I’m learning Data Science and Analysis, Python, and Power BI. After that, I'll learn R, SQL, and other needed skills in the learning path.
@@ -22,7 +25,8 @@
 
 <br />
 <br />
-<img src="vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737_765.png" width="150" height="150">
+<img src="vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737_765.png" width="150" height="150" style="display: block;
+     margin-left: auto;">
 <br />
 <br />
 
