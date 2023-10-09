@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanialGPR82
 - 👀 I’m interested in video recording and editing, MTB cycling, gaming, coding, drinking tea and coffee, etc.
-- 🌱 I’m currently learning Python, then I'll learn R, SQL, etc.
+- 🌱 I’m learning Data Science and Analysis, Python, and Power BI. After that, I'll learn R, SQL, and other needed skills in the learning path.
 
 
 ---
