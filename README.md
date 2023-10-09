@@ -7,12 +7,9 @@
 
 ### 🤝 Connect with me:
 <div>
-  <a style = "text-decoration = none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-    
-  </a>
+  <a href = "https://www.linkedin.com/in/danialgpr/" style = "text-decoration = none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/> </a>
+  
 </div>
 
 
