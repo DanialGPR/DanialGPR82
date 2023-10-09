@@ -18,7 +18,10 @@
 
 <br />
 <br />
-<img src="https://drive.google.com/file/d/1MA-XKhFlGXhyf-WKtxpXkCjb8fHoB9fk/view?usp=sharing" style = "height: 150; width: 150; float: right;">
+<img src="https://drive.google.com/file/d/1MA-XKhFlGXhyf-WKtxpXkCjb8fHoB9fk/view?usp=sharing" width="150" height="150">
+<br />
+<br />
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
