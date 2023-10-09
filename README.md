@@ -18,7 +18,7 @@
 
 <br />
 <br />
-<img src="https://drive.google.com/file/d/1MA-XKhFlGXhyf-WKtxpXkCjb8fHoB9fk/view?usp=sharing" width="150" height="150">
+<img src="vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737_765.png" width="150" height="150">
 <br />
 <br />
 
