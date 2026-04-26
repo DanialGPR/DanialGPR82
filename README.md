@@ -6,16 +6,15 @@
 <br />
 
 - 👋 Hi, I’m @DanialGPR82
-- 👀 I’m interested in Computers, MTB cycling, gaming, coding, reading, drinking tea and coffee, and so on.
-- 🌱 I’m learning Data Science and Analysis, Python, and Power BI. After that, I'll learn R, SQL, and other needed skills in the learning path.
-
+- 👀 I’m interested in computers. networks, MTB cycling, gaming, coding, reading, drinking tea and coffee, and so on.
+- 🌱 Currently learning
 
 ---
 
 ### 🤝 Connect with me:
 <div>
     <a href = "https://www.linkedin.com/in/danialgpr/" style = "text-decoration = none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="40" height="40"/></a>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="20" height="20"/></a>
 
   
 </div>
