@@ -24,8 +24,8 @@
 - Deutsch (German - A2 - Currently learning)
 
 ### 🚩 Projects & Articles:
-- Artificial Intelligence in Early Prediction and Preventation of Chronical and Non-Communicable Diseases: A Narrative Review (Co-author, Presented in Islamic Azad University of Sari-2025)
-- WiFi & Bluetooth Intrupter with ESP32 - Personal Project (2025)
+- Artificial Intelligence in Early Prediction and Prevention of Chronic and Non-Communicable Diseases: A Narrative Review (Co-author, Presented in Islamic Azad University of Sari-2025)
+- WiFi & Bluetooth Deauther / Jammer with ESP32 - Personal Project (2025)
 - 200+ Slide Data Center Presentation — HPE Servers, Intel/AMD/ARM processors, Data Center infrastructure
 
 ### :hammer_and_wrench: Skills & Tools :
@@ -40,7 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" title="PowerPoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg" title="Word" alt="Word" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excell" alt="Excell" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="30" height="30"/>&nbsp;
 </div>
 
 <br />
