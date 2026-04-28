@@ -5,19 +5,12 @@
 <br />
 <br />
 
-- 👋 Hi, I’m @DanialGPR82
-- 👀 I’m interested in computers. networks, MTB cycling, gaming, coding, reading, drinking tea and coffee, and so on.
-- 🌱 Currently learning
-
+- 👋 Greetings, I'm Danial (feel free to call me Dany or Daniel)
+- 🎓 **BSc Computer Engineering** (Expected Spring 2027)
+- 👀 Interested in computers. networks, MTB cycling, gaming, coding, reading, traveling, music and making new and useful things. In love with tea and coffee 🍵
+- 🌱 Currently on Network and Ethical Hacking learning path!
+- 🚑 **IFRC Iranian Red Crescent Society Trained Volunteer**
 ---
-
-### 🤝 Connect with me:
-<div>
-    <a href = "https://www.linkedin.com/in/danialgpr/" style = "text-decoration = none;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/></a>
-
-  
-</div>
 
 <br />
 <br />
@@ -25,13 +18,40 @@
      float: right;">
 <br />
 
-### :hammer_and_wrench: Languages and Tools :
+### 🗣️ Languages I speak :
+- Persian (Native)
+- English (Bilingual Proficiency)
+- Deutsch (German - A2 - Currently learning)
+
+### 🚩 Projects & Articles:
+- Artificial Intelligence in Early Prediction and Preventation of Chronical and Non-Communicable Diseases: A Narrative Review (Co-author, Presented in Islamic Azad University of Sari-2025)
+- WiFi & Bluetooth Intrupter with ESP32 - Personal Project (2025)
+- 200+ Slide Data Center Presentation — HPE Servers, Intel/AMD/ARM processors, Data Center infrastructure
+
+### :hammer_and_wrench: Skills & Tools :
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" title="Kali-Linux" alt="-Kali-Linux" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" title="PowerPoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg" title="Word" alt="Word" width="30" height="30"/>&nbsp;
+  <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excell" alt="Excell" width="30" height="30"/>&nbsp;
+</div>
+
+<br />
+
+
+### 🤝 Connect with me:
+<div>
+    <a href = "https://www.linkedin.com/in/danialgpr/" style = "text-decoration = none;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/></a>
+
+  
 </div>
 
 <!---
