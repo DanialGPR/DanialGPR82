@@ -35,12 +35,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/powerpoint.svg" title="PowerPoint" alt="PowerPoint" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg" title="Word" alt="Word" width="30" height="30"/>&nbsp;
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="30" height="30"/>&nbsp;
+
 </div>
 
 <br />
