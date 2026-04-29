@@ -17,11 +17,6 @@
 - 🚑 **IFRC Iranian Red Crescent Society Trained Volunteer**
 ---
 
-<br />
-<br />
-<img src="vecteezy_data-analysis-concept-illustration-flat-vector-design_10869737_765.png" width="150" height="150" style="display: block;
-     float: right;">
-<br />
 
 ### 🗣️ Languages I speak :
 - Persian (Native)
