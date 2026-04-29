@@ -45,9 +45,6 @@
   <img src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" title="Excel" alt="Excel" width="30" height="30"/>&nbsp;
 </div>
 
-<br />
-
-
 ### 🤝 Connect with me:
 <div>
     <a href="https://www.linkedin.com/in/danialgpr/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/></a><p>LinkedIn Profile</p>
