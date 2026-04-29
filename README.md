@@ -14,7 +14,7 @@
 - 👀 Interested in computers, networks, MTB cycling, any mechanical components or machines, gaming, coding, reading, traveling, music and making new and useful things. In love with tea and coffee 🍵
 - 🖥️ Using Windows and Linux (Kali/Ubuntu) for daily usage or to test and learn new things
 - 🌱 Currently on Network and Ethical Hacking learning path!
-- 🚑 **IFRC Iranian Red Crescent Society Trained Volunteer**
+- 🚑 **IFRC Iranian Red Crescent Society Trained Volunteer (Relief & Rescue/First-Aid/Volunteering)**
 ---
 
 
@@ -26,7 +26,7 @@
 ### 🚩 Projects & Articles:
 - Artificial Intelligence in Early Prediction and Prevention of Chronic and Non-Communicable Diseases: A Narrative Review (Co-author, Presented in Islamic Azad University of Sari-2025)
 - WiFi & Bluetooth Deauther / Jammer with ESP32 - Personal Project (2025)
-- 200+ Slide Data Center Presentation - HPE Servers, Intel/AMD/ARM processors, Data Center infrastructure
+- Data Centers Comprehensive Technical Presentation (200+ Slides) - HPE and Dell Servers, Intel/AMD/ARM processors, Data Center infrastructure
 
 ### :hammer_and_wrench: Skills & Tools :
 <div>
